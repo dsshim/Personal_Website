@@ -24,7 +24,7 @@
     float: right;
     width: 5.8%;
     position: relative;
-    bottom: 45px;
+    bottom: 50px;
 }
 
 .icon-mail2:before {
@@ -90,7 +90,7 @@ body {
 }
 
 .bio {
-    margin-top: -10px;
+    margin-top: -150px;
 }
 
 a:hover {
