@@ -1,5 +1,5 @@
 @import url(http://fonts.googleapis.com/css?family=Sonsie+One);
-@import url(http://fonts.googleapis.com/css?family=Righteous);
+@import url(http://fonts.googleapis.com/css?family=Bitter);
 
 @font-face {
     font-family: 'icomoon';
@@ -19,7 +19,7 @@
     speak: none;
     font-weight: normal;
     -webkit-font-smoothing: antialiased;
-            font-smoothing: antialiased;
+    font-smoothing: antialiased;
     font-size: 30px;
     float: right;
     width: 5.8%;
@@ -56,7 +56,6 @@ body {
 }
 
 #name {
-    /*color: whitesmoke;*/
     font-family: Sonsie One, cursive;
     font-size: 60px;
     font-weight: bold;
@@ -71,25 +70,21 @@ body {
     0px 34px 30px rgba(0, 0, 0, 0.1);
 }
 
-.image a{
+.image a {
     text-decoration: none;
     color: whitesmoke;
 }
 
-.image a:hover{
-    color: black;
-}
-
 .bio p {
     color: whitesmoke;
-    font-family: Righteous, cursive;
-    font-size: 20px;
+    font-family: Bitter, serif;
+    font-size: 18px;
 }
 
 .bio h3 {
     color: whitesmoke;
     font-family: Sonsie One, cursive;
-    font-size: 35px;
+    font-size: 30px;
 }
 
 .bio a {
@@ -99,13 +94,14 @@ body {
 
 .bio {
     margin-top: -150px;
+    margin-left: 30px;
 }
 
 a:hover {
     color: slategray;
 }
 
-.icons a{
+.icons a {
     color: whitesmoke;
 }
 
@@ -122,8 +118,9 @@ a:hover .icon-linkedin {
 }
 
 a:hover .icon-mail2 {
-    color: yellow;
+    color: red;
 }
+
 
 
 
