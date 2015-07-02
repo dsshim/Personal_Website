@@ -97,7 +97,7 @@ body {
     margin-left: 30px;
 }
 
-a:hover {
+.bio a:hover{
     color: slategray;
 }
 
